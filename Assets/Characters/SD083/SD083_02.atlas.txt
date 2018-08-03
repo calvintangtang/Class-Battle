@@ -1,0 +1,167 @@
+
+SD083_02.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 250, 104
+  size: 130, 150
+  orig: 130, 150
+  offset: 0, 0
+  index: -1
+chan_phai
+  rotate: false
+  xy: 214, 72
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+chan_trai
+  rotate: false
+  xy: 967, 134
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+da_1
+  rotate: false
+  xy: 382, 198
+  size: 126, 56
+  orig: 126, 56
+  offset: 0, 0
+  index: -1
+da_2
+  rotate: true
+  xy: 474, 115
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+da_3
+  rotate: false
+  xy: 620, 122
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+da_4
+  rotate: false
+  xy: 870, 127
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+da_5
+  rotate: false
+  xy: 920, 134
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+da_6
+  rotate: false
+  xy: 528, 75
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+emo_chet
+  rotate: false
+  xy: 382, 115
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+emo_damaged
+  rotate: false
+  xy: 644, 173
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+emo_tancong
+  rotate: false
+  xy: 736, 173
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+emo_tancong2
+  rotate: false
+  xy: 828, 173
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+emo_thongthuong
+  rotate: false
+  xy: 920, 173
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+emo_win
+  rotate: false
+  xy: 528, 132
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+la_1
+  rotate: false
+  xy: 810, 124
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+la_2
+  rotate: false
+  xy: 596, 85
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+non
+  rotate: false
+  xy: 2, 97
+  size: 246, 157
+  orig: 246, 157
+  offset: 0, 0
+  index: -1
+non_2
+  rotate: false
+  xy: 2, 10
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 510, 215
+  size: 132, 39
+  orig: 132, 39
+  offset: 0, 0
+  index: -1
+tay_phai
+  rotate: false
+  xy: 748, 123
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+tay_trai
+  rotate: false
+  xy: 686, 122
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+tiedup
+  rotate: false
+  xy: 250, 2
+  size: 121, 100
+  orig: 121, 100
+  offset: 0, 0
+  index: -1

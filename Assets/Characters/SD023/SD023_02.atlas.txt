@@ -1,0 +1,146 @@
+
+SD023_02.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backleg
+  rotate: true
+  xy: 421, 267
+  size: 152, 212
+  orig: 152, 212
+  offset: 0, 0
+  index: -1
+backleg2
+  rotate: false
+  xy: 415, 85
+  size: 156, 180
+  orig: 156, 180
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 411, 327
+  orig: 411, 327
+  offset: 0, 0
+  index: -1
+emo_damged
+  rotate: true
+  xy: 1571, 803
+  size: 208, 224
+  orig: 208, 224
+  offset: 0, 0
+  index: -1
+emo_death
+  rotate: true
+  xy: 1797, 803
+  size: 208, 224
+  orig: 208, 224
+  offset: 0, 0
+  index: -1
+emo_normal
+  rotate: false
+  xy: 705, 446
+  size: 208, 224
+  orig: 208, 224
+  offset: 0, 0
+  index: -1
+emo_sleep
+  rotate: false
+  xy: 915, 479
+  size: 208, 224
+  orig: 208, 224
+  offset: 0, 0
+  index: -1
+emo_tancong
+  rotate: false
+  xy: 1125, 497
+  size: 208, 224
+  orig: 208, 224
+  offset: 0, 0
+  index: -1
+emo_tancong1
+  rotate: false
+  xy: 1335, 608
+  size: 208, 224
+  orig: 208, 224
+  offset: 0, 0
+  index: -1
+emo_tancong2
+  rotate: true
+  xy: 1545, 593
+  size: 208, 224
+  orig: 208, 224
+  offset: 0, 0
+  index: -1
+emo_win
+  rotate: true
+  xy: 1771, 593
+  size: 208, 224
+  orig: 208, 224
+  offset: 0, 0
+  index: -1
+frontleg
+  rotate: false
+  xy: 840, 705
+  size: 219, 306
+  orig: 219, 306
+  offset: 0, 0
+  index: -1
+frontleg2
+  rotate: false
+  xy: 1061, 723
+  size: 224, 288
+  orig: 224, 288
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 421, 421
+  size: 282, 249
+  orig: 282, 249
+  offset: 0, 0
+  index: -1
+lv1_vongco
+  rotate: false
+  xy: 2, 672
+  size: 417, 339
+  orig: 417, 339
+  offset: 0, 0
+  index: -1
+lv2_vongco
+  rotate: false
+  xy: 2, 331
+  size: 417, 339
+  orig: 417, 339
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 635, 287
+  size: 132, 39
+  orig: 132, 39
+  offset: 0, 0
+  index: -1
+tiedup
+  rotate: false
+  xy: 1335, 506
+  size: 121, 100
+  orig: 121, 100
+  offset: 0, 0
+  index: -1
+vongco
+  rotate: false
+  xy: 421, 672
+  size: 417, 339
+  orig: 417, 339
+  offset: 0, 0
+  index: -1
+vongco2
+  rotate: false
+  xy: 1287, 834
+  size: 282, 177
+  orig: 282, 177
+  offset: 0, 0
+  index: -1
